@@ -1,4 +1,4 @@
 # Yajurva-demo
 This is my first git repo.
 <br>
-Author-Yajurva Dhote (infosys)
+Author-Yajurva Dhote (Infosys)
